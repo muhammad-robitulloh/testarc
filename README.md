@@ -1,2 +1,2 @@
 # testarc
-testing repoitory for arcana
+testing repository for arcana
